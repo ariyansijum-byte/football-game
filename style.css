@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background: #0b6623; /* grass color */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+canvas {
+  border: 3px solid white;
+  background: green;
+}
